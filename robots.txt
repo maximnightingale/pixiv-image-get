@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
-sitemap: https://maximnightingale.github.io/pixiv-image/sitemap.xml
+sitemap: https://maximnightingale.github.io/pixiv-image-get/sitemap.xml
 
 User-Agent: GPTBot
 User-Agent: Google-Extended
